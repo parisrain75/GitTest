@@ -1,3 +1,5 @@
 print ("Hello !!")
 print ("한글")
 print("Test")
+print("Good afternoo!")
+print("")
